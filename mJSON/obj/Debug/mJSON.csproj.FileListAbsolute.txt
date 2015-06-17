@@ -1,0 +1,6 @@
+c:\users\mimi\documents\visual studio 2013\Samples\mJSON\mJSON\bin\Debug\mJSON.exe.config
+c:\users\mimi\documents\visual studio 2013\Samples\mJSON\mJSON\obj\Debug\mJSON.csprojResolveAssemblyReference.cache
+c:\users\mimi\documents\visual studio 2013\Samples\mJSON\mJSON\bin\Debug\mJSON.exe
+c:\users\mimi\documents\visual studio 2013\Samples\mJSON\mJSON\bin\Debug\mJSON.pdb
+c:\users\mimi\documents\visual studio 2013\Samples\mJSON\mJSON\obj\Debug\mJSON.exe
+c:\users\mimi\documents\visual studio 2013\Samples\mJSON\mJSON\obj\Debug\mJSON.pdb
